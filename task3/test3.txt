@@ -1,0 +1,8 @@
+Student A, M, 10, 98.9
+Student B, M, 10, 98.9
+Student C, M, 10, 55
+Student D, M, 10, 55
+Student E, M, 10, 55
+Student F, M, 10, 55
+Student G, M, 10, 55
+3, 56.5

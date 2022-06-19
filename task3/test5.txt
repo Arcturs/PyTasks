@@ -1,0 +1,10 @@
+Student A, M, 3, 5.0
+Student B, M, 3, 4.5
+Student C, M, 1, 4.5
+Student D, M, 3, 5.0
+Student E, M, 1, 4.5
+Student F, F, 1, 4.25
+Student G, F, 3, 3.96
+Student H, M, 1, 3.98
+Student I, F, 3, 9.999
+3, 3.9
